@@ -19,7 +19,7 @@ Equipped with slicers, KPI cards, maps, and various charts, this dashboard enabl
 ## **2. Key Questions / KPIs**
 - 💰 **What are the total sales and profits?**  
 - 📦 **Which product sub-categories drive the highest sales?**  
-- 🛳 **How does profit vary by shipping mode and customer segment?**  
+- 🛳 **Which category produces top sales?**  
 - 🌍 **Which regions and states contribute most to sales?**  
 - 👥 **Who are the top customers by profit contribution?**
 
@@ -40,7 +40,7 @@ Equipped with slicers, KPI cards, maps, and various charts, this dashboard enabl
 - Created:
   - KPI Cards for **Total Sales** and **Total Profit**  
   - Funnel chart for **Sales by Sub-Category**  
-  - Bar charts for **Profit by Ship Mode** and **Sales by Region**  
+  - Bar charts for **Sales by Category** and **Sales by Region**  
   - Pie chart for **Customer Count**  
   - Map for **Sales by State**  
   - Horizontal bars for **Top 5 Customers Profit**  
