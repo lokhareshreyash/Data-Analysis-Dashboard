@@ -61,10 +61,3 @@ Equipped with slicers, KPI cards, maps, and various charts, this dashboard enabl
 
 ---
 
-## **5. Future Improvements**
-- Automate data refresh via Power Query or a live database connection.  
-- Integrate with **Power BI** for richer visuals and drill-through capability.  
-- Add **trend analysis** to monitor changes over time.  
-- Implement **forecasting models** for sales and profit prediction.  
-- Include **profit margin visualizations** for better profitability tracking.  
-- Develop a **mobile-friendly layout** for on-the-go insights.
