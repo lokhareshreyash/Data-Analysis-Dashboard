@@ -58,6 +58,3 @@ Equipped with slicers, KPI cards, maps, and various charts, this dashboard enabl
 - The **top 5 customers** account for a large share of profit, led by *Tamara Chand* with **$8,981**.  
 - Certain states significantly outperform others, pointing to targeted marketing opportunities.  
 - **Fasteners** and **Labels** have low sales, suggesting a need for review or promotion.
-
----
-
